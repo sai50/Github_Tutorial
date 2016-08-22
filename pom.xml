@@ -17,7 +17,7 @@
   </dependencies>
   <build>
     <finalName>App1</finalName>
-    <plugins>
+      <plugins>
          <plugin>
             <groupId>org.glassfish</groupId>
             <artifactId>maven-embedded-glassfish-plugin</artifactId>
